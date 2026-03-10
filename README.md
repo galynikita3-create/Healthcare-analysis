@@ -15,9 +15,6 @@ This analysis aims to answer the following questions:
 - Is BMI associated with higher medical expenses?
 - Are there regional differences in insurance costs?
 
-<img width="731" height="398" alt="image" src="https://github.com/user-attachments/assets/d98cdb37-8b4c-4719-b8ca-ee7e31aeeacb" />
-
-<img width="729" height="394" alt="image" src="https://github.com/user-attachments/assets/e3f7254a-fad7-4255-b3d5-6ad526005e0e" />
 
 <p align="center">
 <img width="1000" src="https://github.com/user-attachments/assets/d98cdb37-8b4c-4719-b8ca-ee7e31aeeacb">
