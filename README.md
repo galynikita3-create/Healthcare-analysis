@@ -46,5 +46,5 @@ Some of the main findings:
 - DAX
 
 ## Screenshots
+<img width="731" height="398" alt="image" src="https://github.com/user-attachments/assets/9f0aa47b-60f1-4e3d-9398-3a4dffee19e1" />
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
