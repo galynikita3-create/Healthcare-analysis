@@ -23,6 +23,9 @@ This analysis aims to answer the following questions:
 <img width="1000" src="https://github.com/user-attachments/assets/d98cdb37-8b4c-4719-b8ca-ee7e31aeeacb">
 </p>
 
+<p align="center">
+<img width="1000" src="https://github.com/user-attachments/assets/e3f7254a-fad7-4255-b3d5-6ad526005e0e">
+</p>
 
 ## Dataset
 The dataset includes the following variables:
