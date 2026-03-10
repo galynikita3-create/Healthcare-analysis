@@ -1,4 +1,4 @@
-# Healthcare-analysis
+# Healthcare Insurance Cost Analysis – Power BI Dashboard
 ## Project Overview
 
 This project analyzes healthcare insurance costs using demographic and lifestyle factors such as age, BMI, smoking status, and region.
@@ -6,6 +6,14 @@ This project analyzes healthcare insurance costs using demographic and lifestyle
 The objective is to identify the key drivers of insurance charges and provide insights through interactive data visualization using Power BI.
 The goal is to identify key drivers of medical insurance expenses.
 
+## Business Questions
+
+This analysis aims to answer the following questions:
+
+- How does age influence healthcare insurance costs?
+- Do smokers pay significantly higher insurance charges?
+- Is BMI associated with higher medical expenses?
+- Are there regional differences in insurance costs?
 
 <img width="731" height="398" alt="image" src="https://github.com/user-attachments/assets/d98cdb37-8b4c-4719-b8ca-ee7e31aeeacb" />
 
@@ -65,7 +73,7 @@ Source: Kaggle – Mosap Abdelghany
 -Domain: Healthcare / Insurance Cost Analysis
 -Dataset Link: https://www.kaggle.com/datasets/mosapabdelghany/medical-insurance-cost-dataset
 
-## Download the Power BI Dashboard
+## Interactive Dashboard
 
-Download the Power BI file from the release page:
+The full interactive Power BI dashboard can be downloaded here:
 https://raw.githubusercontent.com/galynikita3-create/Healthcare-analysis/main/healthcare-analysis.pbix
