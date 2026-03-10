@@ -54,4 +54,4 @@ Some of the main findings:
 
 Download the Power BI file from the release page:
 
-https://github.com/galyinkita3-create/Healthcare-analysis/releases/tag/v1.0
+[https://github.com/galyinkita3-create/Healthcare-analysis/releases/tag/v1.0](https://raw.githubusercontent.com/galynikita3-create/Healthcare-analysis/main/Healthcare%20Analysis%20(1).pbix)
