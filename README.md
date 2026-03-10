@@ -4,6 +4,7 @@ This project analyzes healthcare insurance costs based on demographic and lifest
 
 The goal is to identify key drivers of medical insurance expenses.
 <img width="731" height="398" alt="image" src="https://github.com/user-attachments/assets/d98cdb37-8b4c-4719-b8ca-ee7e31aeeacb" />
+
 <img width="729" height="394" alt="image" src="https://github.com/user-attachments/assets/e3f7254a-fad7-4255-b3d5-6ad526005e0e" />
 
 
@@ -48,7 +49,7 @@ Some of the main findings:
 - Power Query
 - DAX
 
+
 ## Download the Power BI Dashboard
 
-[Download the Power BI file](https://raw.githubusercontent.com/galyinkita3-create/Healthcare-analysis/main/Healthcare%20Analysis.pbix)
-
+[Download the Power BI file](https://raw.githubusercontent.com/galyinkita3-create/Healthcare-analysis/main/healthcare-analysis-dashboard.pbix)
