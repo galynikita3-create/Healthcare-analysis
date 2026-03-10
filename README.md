@@ -52,4 +52,4 @@ Some of the main findings:
 
 ## Download the Power BI Dashboard
 
-[Download the Power BI file](https://raw.githubusercontent.com/galyinkita3-create/Healthcare-analysis/main/healthcare-analysis-dashboard.pbix)
+[Download the Power BI file](https://github.com/galyinkita3-create/Healthcare-analysis/releases/latest/download/healthcare-analysis.pbix)
