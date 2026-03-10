@@ -48,6 +48,7 @@ Some of the main findings:
 - Power Query
 - DAX
 
-## Screenshots
+## Download the Power BI Dashboard
 
+[Download the Power BI file](https://raw.githubusercontent.com/galyinkita3-create/Healthcare-analysis/main/Healthcare%20Analysis.pbix)
 
