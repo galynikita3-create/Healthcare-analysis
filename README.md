@@ -3,6 +3,9 @@
 This project analyzes healthcare insurance costs based on demographic and lifestyle factors such as age, BMI, and smoking status.
 
 The goal is to identify key drivers of medical insurance expenses.
+<img width="731" height="398" alt="image" src="https://github.com/user-attachments/assets/d98cdb37-8b4c-4719-b8ca-ee7e31aeeacb" />
+<img width="729" height="394" alt="image" src="https://github.com/user-attachments/assets/e3f7254a-fad7-4255-b3d5-6ad526005e0e" />
+
 
 ## Dataset
 The dataset includes the following variables:
@@ -46,5 +49,5 @@ Some of the main findings:
 - DAX
 
 ## Screenshots
-<img width="731" height="398" alt="image" src="https://github.com/user-attachments/assets/9f0aa47b-60f1-4e3d-9398-3a4dffee19e1" />
+
 
