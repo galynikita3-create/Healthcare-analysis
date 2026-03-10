@@ -1,8 +1,12 @@
 # Healthcare-analysis
 ## Project Overview
-This project analyzes healthcare insurance costs based on demographic and lifestyle factors such as age, BMI, and smoking status.
 
+This project analyzes healthcare insurance costs using demographic and lifestyle factors such as age, BMI, smoking status, and region.
+
+The objective is to identify the key drivers of insurance charges and provide insights through interactive data visualization using Power BI.
 The goal is to identify key drivers of medical insurance expenses.
+
+
 <img width="731" height="398" alt="image" src="https://github.com/user-attachments/assets/d98cdb37-8b4c-4719-b8ca-ee7e31aeeacb" />
 
 <img width="729" height="394" alt="image" src="https://github.com/user-attachments/assets/e3f7254a-fad7-4255-b3d5-6ad526005e0e" />
@@ -39,15 +43,18 @@ The Power BI dashboard includes:
 
 Some of the main findings:
 
-- Smoking significantly increases insurance costs.
-- Higher BMI categories are associated with higher medical expenses.
-- Healthcare costs tend to increase with age.
+- Smoking status has a significant impact on insurance charges.
+- Higher BMI is associated with increased healthcare costs.
+- Insurance costs increase with age.
+- Regional differences exist but are less significant compared to lifestyle factors.
 
 ## Tools Used
 
 - Power BI
-- Power Query
+- Data Modeling
 - DAX
+- Data Visualization
+- Exploratory Data Analysis
 
 ## Dataset Information
 
