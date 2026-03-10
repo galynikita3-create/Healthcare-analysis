@@ -49,6 +49,14 @@ Some of the main findings:
 - Power Query
 - DAX
 
+## Dataset Information
+
+Source: Kaggle – Mosap Abdelghany
+-Dataset: Medical Insurance Cost Dataset
+-Records: 1338
+-Variables: age, bmi, children, smoker, region, charges.
+-Domain: Healthcare / Insurance Cost Analysis
+-Dataset Link: https://www.kaggle.com/datasets/mosapabdelghany/medical-insurance-cost-dataset
 
 ## Download the Power BI Dashboard
 
